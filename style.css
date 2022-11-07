@@ -50,3 +50,8 @@ body{
   form{
     background: #999;
   }
+  .Bluechip-NFT{
+    height: 50x;
+    width: 50x;
+    float: left;
+  }
