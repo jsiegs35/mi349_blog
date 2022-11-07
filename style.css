@@ -35,3 +35,18 @@ p {
         top: 0;
       
 } 
+body{
+    background: rgb(168, 156, 156);
+  }
+  table{
+    background: yellow;
+  }
+  section{
+    background: #ccc;
+  }
+  article{
+    background: deepskyblue;
+  }
+  form{
+    background: #999;
+  }
