@@ -43,7 +43,6 @@ body{
   }
   section{
     background: #ccc;
-    display: flex;
   }
   article{
     background: deepskyblue;
