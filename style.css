@@ -46,7 +46,6 @@ body{
   }
   article{
     background: deepskyblue;
-    display: flex;
   }
   form{
     background: #999;
