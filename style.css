@@ -29,3 +29,9 @@ p {
     margin-right: 150px;
     margin-left: 50px;
   }
+.sticky{
+    background: red;
+      position: sticky;
+        top: 0;
+      
+} 
