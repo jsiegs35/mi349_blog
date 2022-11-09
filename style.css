@@ -1,13 +1,12 @@
 
 body {
     background-color:deepskyblue;
+    color:black;
 }
 h1 {
     color:blue;
 }
-body {
-    color:black;
-}    
+    
 h2 {
     color:blue;
 }
@@ -35,6 +34,10 @@ p {
         top: 0;
       
 } 
+
+.articles {
+    display: flex;
+}
 body{
     background: rgb(168, 156, 156);
   }
