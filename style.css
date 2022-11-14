@@ -56,3 +56,8 @@ body{
   .img-container{
     float: right;
   }
+  @media (max-width: 400px) {
+    article{
+        display:block
+    }
+  }
