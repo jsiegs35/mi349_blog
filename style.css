@@ -58,6 +58,6 @@ body{
   }
   @media (max-width: 400px) {
     #articles{
-        background: green
+        background: green;
     }
   }
