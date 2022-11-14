@@ -57,7 +57,7 @@ body{
     float: right;
   }
   @media (max-width: 400px) {
-    #articles{
+    .articles{
         display: inline-block;
     }
   }
